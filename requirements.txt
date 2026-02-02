@@ -6,8 +6,4 @@ matplotlib
 streamlit_js_eval
 matplotlib.pyplot
 matplotlib.patches
-json
-io
-os
-ezdxf
 
