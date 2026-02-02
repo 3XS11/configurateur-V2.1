@@ -4,6 +4,5 @@ openpyxl
 reportlab
 matplotlib
 streamlit_js_eval
-matplotlib.pyplot
-matplotlib.patche
 ezdxf
+
