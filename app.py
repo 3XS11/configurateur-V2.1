@@ -2133,7 +2133,7 @@ local_projet()
 
 # Configuration du haut de page #
 
-st.set_page_config(page_title="Configurateur Châssis", layout="wide")
+st.set_page_config(page_title="My frame", layout="wide")
 st.markdown("""
 <style>
 /* Enlever l’espace au-dessus du contenu */
